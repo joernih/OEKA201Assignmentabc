@@ -3,7 +3,7 @@
 ## Insert name of group members here
 
 - `joernihhvl 123>`
-- `...`
+- `joernihHIOF 456`
 - `...`
 - `...`
 - `<Inser name of Group member N> <Student code>`
