@@ -4,7 +4,7 @@
 
 - `joernihhvl 123>`
 - `joernihHIOF 456`
-- `...`
+- `joernihMAIN`
 - `...`
 - `<Inser name of Group member N> <Student code>`
 
